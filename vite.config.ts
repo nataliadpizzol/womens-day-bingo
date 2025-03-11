@@ -34,5 +34,5 @@ function csvPlugin(): Plugin {
 export default defineConfig({
   plugins: [react(), csvPlugin()],
   assetsInclude: ['**/*.csv'],
-  base: process.env.NODE_ENV === 'production' ? '/womens-day-bingo/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/womensdaybingo.github.io/' : '/',
 })
