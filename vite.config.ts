@@ -33,5 +33,6 @@ function csvPlugin(): Plugin {
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), csvPlugin()],
-  assetsInclude: ['**/*.csv']
+  assetsInclude: ['**/*.csv'],
+  base: process.env.NODE_ENV === 'production' ? '/womens-day-bingo/' : '/',
 })
