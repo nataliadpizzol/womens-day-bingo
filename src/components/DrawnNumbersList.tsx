@@ -2,10 +2,9 @@ import React from 'react';
 
 interface DrawnNumbersListProps {
   numbers: number[];
-  maxNumber: number;
 }
 
-const DrawnNumbersList: React.FC<DrawnNumbersListProps> = ({ numbers, maxNumber }) => {
+const DrawnNumbersList: React.FC<DrawnNumbersListProps> = ({ numbers }) => {
   return (
     <div className="drawn-numbers-list">
       <h2>Drawn Numbers ({numbers.length})</h2>

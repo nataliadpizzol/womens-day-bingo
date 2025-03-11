@@ -58,20 +58,7 @@ const NumberDialog: React.FC<NumberDialogProps> = ({ number, onClose }) => {
     return '';
   };
 
-  // Get color based on BINGO letter
-  const getLetterColor = (letter: string) => {
-    const colors = {
-      'B': '#ffe36e',
-      'I': '#ffe36e',
-      'N': '#ffe36e',
-      'G': '#ffe36e',
-      'O': '#ffe36e'
-    };
-    return colors[letter as keyof typeof colors] || 'white';
-  };
-
   const letter = getBingoLetter(number);
-  const letterColor = getLetterColor(letter);
 
   // Handle different field names in the JSON
   const getArea = () => person?.Area || person?.["Área em que trabalha"] || "";
