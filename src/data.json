@@ -1,0 +1,677 @@
+[
+  {
+    "i": 1,
+    "Nome": "Hipatia",
+    "Emojis": "📐 🔭 📚",
+    "Área em que trabalha": "Matemática",
+    "Descrição": "Foi uma filósofa neoplatônica grega do Egito Romano. Foi a primeira mulher documentada como tendo sido matemática.Como chefe da escola platônica em Alexandria, também lecionou filosofia e astronomia.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/0/07/Hypatia_portrait.png"
+  },
+  {
+    "i": 2,
+    "Nome": "Joan Beauchamp Procter",
+    "Emojis": "🦎 🐊 🔬",
+    "Área em que trabalha": "Herpertologia",
+    "Descrição": "Foi uma herpetóloga britânica conhecida por seu trabalho pioneiro no estudo de répteis e anfíbios. Ela foi a primeira curadora de répteis do Zoológico de Londres e contribuiu significativamente para o entendimento científico e a conservação dessas criaturas. Procter foi uma das poucas mulheres em sua época a alcançar reconhecimento na ciência, quebrando barreiras de gênero e deixando um legado duradouro no campo da herpetologia.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/en/0/0b/Joan_Beauchamp_Procter.jpg"
+  },
+  {
+    "i": 3,
+    "Nome": "Moni",
+    "Emojis": "༼ つ ◕_◕ ༽つ",
+    "Área em que trabalha": "AI & Data",
+    "Descrição": "Quando ela era menor queria muito ser o power ranger vermelho.",
+    "O hobbies dela são...": "jogar fut, andar de bike e jogar jogos eletrônicos",
+    "Foto": "https://tibbyappstorage.blob.core.windows.net/diadamulher/WhatsApp Image 2024-08-26 at 06.07.38 - Moniele Kunrath.jpeg"
+  },
+  {
+    "i": 4,
+    "Nome": "Wang Zhenyi",
+    "Emojis": "⭐️ 📐 📚",
+    "Área em que trabalha": "Astronomia e Matemática",
+    "Descrição": "Foi uma cientista chinesa, astrônoma, matemática e poeta da Dinastia Qing. Ela quebrou muitas das tradições feudais de seu tempo, que impediam as mulheres de alcançar muitos objetivos. Dedicou-se arduamente ao estudo da astronomia e a matemática.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://mujeresconciencia.com/app/uploads/2017/12/Wang-Zhenyi.jpg"
+  },
+  {
+    "i": 5,
+    "Nome": "Barbara Mcclintock",
+    "Emojis": "🧬 🌽 🔬",
+    "Área em que trabalha": "Ciências Biológicas",
+    "Descrição": "Foi uma geneticista americana renomada por suas descobertas revolucionárias sobre a genética do milho. Ela foi pioneira na compreensão dos elementos genéticos móveis, os \"genes saltadores\" ou transposons, que demonstraram a plasticidade do genoma. Por sua pesquisa inovadora, ela recebeu o Prêmio Nobel de Fisiologia ou Medicina em 1983, sendo a terceira mulher a receber esse prêmio nessa categoria.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/1/14/Barbara_McClintock_%281902-1992%29_shown_in_her_laboratory_in_1947.jpg"
+  },
+  {
+    "i": 6,
+    "Nome": "Larissa Amaral",
+    "Emojis": "🐈‍⬛",
+    "Área em que trabalha": "AI & Data",
+    "Descrição": "Fez o doutorado em astrofísica no Chile estudando estrelas mortas que tem \"terremotos\". Em 2024 resolveu fazer a mudança do mundo academico pro mundo corporativo e consegui seu primeiro emprego CLT na Poatek. Tem dois gatinhos lindos, a Aurora e o Sirius. ",
+    "O hobbies dela são...": "Ama ler livros de romantasia (romance+fantasia) principalmente e ama fofocas edificantes de famosos.",
+    "Foto": "https://tibbyappstorage.blob.core.windows.net/diadamulher/Screenshot 2025-02-26 at 10.26.49 - Larissa Amaral.png"
+  },
+  {
+    "i": 7,
+    "Nome": "Hedy Lamarr",
+    "Emojis": "📡 🎬 💡",
+    "Área em que trabalha": "Atriz e inventora tecnologica",
+    "Descrição": "Foi uma atriz e inventora austríaca-americana. Além de sua carreira na tela, Lamarr foi uma inventora prolífica, co-desenvolvendo um sistema de comunicação de espectro expandido que serviu de base para tecnologias modernas, como o Wi-Fi e o Bluetooth.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hedy_Lamarr_in_The_Heavenly_Body_1944.jpg/1200px-Hedy_Lamarr_in_The_Heavenly_Body_1944.jpg"
+  },
+  {
+    "i": 8,
+    "Nome": "Mary Anning",
+    "Emojis": "🦕 🦴 🔭",
+    "Área em que trabalha": "Paleontóloga",
+    "Descrição": "Foi uma paleontóloga, negociadora e coletora de fósseis inglesa. Ficou mundialmente conhecida por importantes descobertas feitas no afloramento jurássico dos recifes do canal inglês em Lyme Regis, no sudoeste da Inglaterra.Suas descobertas contribuíram para importantes mudanças no pensamento científico sobre a vida pré-histórica e para a geologia\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://www3.unicentro.br/petfisica/wp-content/uploads/sites/54/2021/08/Mary_Anning-dimensionado.jpg"
+  },
+  {
+    "i": 9,
+    "Nome": "Nat",
+    "Emojis": "🦝💌",
+    "Área em que trabalha": "Product Delivery",
+    "Descrição": "A Nat é médica veterinária, e fez transição de carreira para computação em 2021. Tem uma bolsa de estudos na PUCRS, onde vai se formar esse semestre em ciência da computação. Ela realiza pesquisa científica na área de ética e diversidade e computação, e trabalha como desenvolvedora iOS.",
+    "O hobbies dela são...": "Ler muito, especialmente fantasia! Também adora jogar vôlei e é viciada em jogos de tabuleiro (com uma coleção em expansão)",
+    "Foto": "https://avatars.githubusercontent.com/u/178810102?v=4"
+  },
+  {
+    "i": 10,
+    "Nome": "Hertha Ayrton",
+    "Emojis": "⚡️ 💡 📐",
+    "Área em que trabalha": "Engenharia",
+    "Descrição": "Foi uma engenheira, matemática, física, inventora e sufragista britânica. Conhecida na vida adulta como Hertha Ayrton, foi premiada com a Medalha Hughes pela Royal Society por seu trabalho em arcos elétricos e marcas de ondulação na areia e na água.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Helena_Ars%C3%A8ne_Darmesteter_-_Portrait_of_Hertha_Ayrton.jpg/400px-Helena_Ars%C3%A8ne_Darmesteter_-_Portrait_of_Hertha_Ayrton.jpg"
+  },
+  {
+    "i": 11,
+    "Nome": "Rosalind Franklin",
+    "Emojis": "🧬 🔬 📸",
+    "Área em que trabalha": "Biofísica",
+    "Descrição": "Foi uma biofísica britânica cujo trabalho fundamental com raios X ajudou a elucidar a estrutura do DNA. Suas imagens de difração de raios X foram essenciais para a descoberta da estrutura de dupla hélice do DNA, mas sua contribuição foi muitas vezes subestimada. Sua pesquisa estabeleceu as bases para a compreensão da genética molecular e teve um impacto duradouro no avanço da Ciências Biológicas e da medicina.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/pt/9/97/Rosalind_Franklin.jpg"
+  },
+  {
+    "i": 12,
+    "Nome": "Rafaela",
+    "Emojis": "🗣",
+    "Área em que trabalha": "Design",
+    "Descrição": "Designer, entusiasta de plantas e ceramista amadora.",
+    "O hobbies dela são...": "Ler, cuidar de plantas, cheirar seu cachorro e atividades manuais no geral.",
+    "Foto": "https://tibbyappstorage.blob.core.windows.net/diadamulher/IMG_7209 2 - Rafaela Rodrigues.jpg"
+  },
+  {
+    "i": 13,
+    "Nome": "Karen Horney",
+    "Emojis": "🧠",
+    "Área em que trabalha": "Psicologia",
+    "Descrição": "Foi uma psicanalista alemã cujas teorias questionavam algumas visões tradicionais  freudianas, especialmente as suas teorias acerca da sexualidade e da orientação instintiva da  psicanálise. Ela discordava de Freud sobre as diferenças inerentes à psicologia de homens e mulheres, e as atribuía a diferenças sociais e culturais e não à Ciências Biológicas.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/3/30/Karen_Horney_1938.jpg"
+  },
+  {
+    "i": 14,
+    "Nome": "Dorothy Hodgkin",
+    "Emojis": "⚗️ 🔬 🧪",
+    "Área em que trabalha": "Química",
+    "Descrição": "Foi uma renomada química britânica, pioneira na técnica de cristalografia de raios X para determinar estruturas moleculares. Sua descoberta da estrutura da penicilina e da vitamina B12 rendeu-lhe o Prêmio Nobel de Química em 1964, tornando-a a terceira mulher a receber esse prêmio. Hodgkin também foi uma defensora da paz e da justiça social, além de contribuir para o avanço da ciência, inspirando gerações de cientistas.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Dorothy_Hodgkin_Nobel.jpg/220px-Dorothy_Hodgkin_Nobel.jpg"
+  },
+  {
+    "i": 15,
+    "Nome": "Tina",
+    "Emojis": "🎾🏃‍♀️",
+    "Área em que trabalha": "AI & Data",
+    "Descrição": "Martina, apenas martina",
+    "O hobbies dela são...": "Esportes e brincar com a Bisous - minha gatinha.",
+    "Foto": "https://tibbyappstorage.blob.core.windows.net/diadamulher/IMG_1517 - Martina Yurgel.jpeg"
+  },
+  {
+    "i": 16,
+    "Nome": "Maria Sibylla Merian",
+    "Emojis": "🦋 🎨 🔬",
+    "Área em que trabalha": "Ilustradora científica ",
+    "Descrição": "Foi uma naturalista e ilustradora científica alemã que estudou plantas e insetos e fez pinturas detalhadas sobre eles. Foi a grande entomóloga da sua geração, elevando o conhecido sobre insetos na época através de seus estudos e ilustrações.\n\t\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bildnis_der_Maria_Sibylla_Merian%2C_1679.jpg/1200px-Bildnis_der_Maria_Sibylla_Merian%2C_1679.jpg"
+  },
+  {
+    "i": 17,
+    "Nome": "Elizabeth Blackwell",
+    "Emojis": "👩‍⚕️ 🏥 📚",
+    "Área em que trabalha": "Medicina",
+    "Descrição": "Foi uma médica norte-americana, sendo a primeira mulher a se formar e exercer a medicina nos Estados Unidos. Pioneira em promover a entrada de mais mulheres na medicina nos Estados Unidos, foi também uma reformista e abolicionista. \n\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKr0Djzr1uRdLsOVtnjVFRuQ7zdSDKfTLkug&s"
+  },
+  {
+    "i": 18,
+    "Nome": "Kata",
+    "Emojis": "🧚🏻",
+    "Área em que trabalha": "AI & Data",
+    "Descrição": "Kata é Data Engineer aqui na Poatek. Se considerava uma dog person, mas aí entrou no cat distribution system e foi adotada pelo Diego Armando e pela Peggy Carter. Recentemente se tornou Engenheira Cartografa e a Agrimensora (mas também é Técnica em Edificações) então está usando o tempo livre pra fazer ponto cruz e aprender a crochetar pra ser uma senhorinha raiz no futuro próximo.",
+    "O hobbies dela são...": "Levar uma canga e o kindle pra deitar em alguma sombra na Redenção; fazer crochê, ponto cruz e jogar Pokemon Unite.",
+    "Foto": "https://tibbyappstorage.blob.core.windows.net/diadamulher/Screenshot 2025-03-11 at 15.10.36.jpg"
+  },
+  {
+    "i": 19,
+    "Nome": "Marjory Stoneman Douglas",
+    "Emojis": "🌿 📝 🌊",
+    "Área em que trabalha": "Conservação Ambiental e Jornalismo",
+    "Descrição": "Marjory Stoneman Douglas foi uma jornalista, escritora, feminista e ambientalista estadunidense, conhecida por sua firme defesa dos Everglades da Flórida contra a drenagem e o desenvolvimento. Mesmo quando era jovem, Marjory era uma sincera e politicamente consciente defensora de muitas questões controversas à época, entre elas o sufrágio feminino e os direitos civis.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://hips.hearstapps.com/hmg-prod/images/marjory-stoneman-douglas-photo-by-ray-fisher_the-life-images-collection_getty-images-square.jpg"
+  },
+  {
+    "i": 20,
+    "Nome": "Cecilia Payne-Gaposchkin",
+    "Emojis": "⭐️ 🔭 🌟",
+    "Área em que trabalha": "Astrofísica",
+    "Descrição": "Foi uma astrônoma e astrofísica britânica-americana, pioneira no estudo da composição química das estrelas. Ela foi a primeira pessoa a sugerir que as estrelas são compostas principalmente de hidrogênio e hélio, uma teoria que revolucionou nossa compreensão do universo. Apesar das barreiras enfrentadas por ser mulher na ciência, suas contribuições foram fundamentais para o avanço da astrofísica.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/13AED/production/_106412608_gettyimages-514977408.jpg.webp"
+  },
+  {
+    "i": 21,
+    "Nome": "Maria Goeppert-Mayer",
+    "Emojis": "⚛️ 🔬 📐",
+    "Área em que trabalha": "Física",
+    "Descrição": "Foi uma física teórica alemã-americana, reconhecida por suas contribuições para a teoria nuclear e a estrutura dos átomos. Ela desenvolveu o modelo de camadas do núcleo atômico, conhecido como Modelo de Goeppert-Mayer, pelo qual recebeu o Prêmio Nobel de Física em 1963, sendo a segunda mulher a receber esse prêmio na área.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://s2.glbimg.com/6HT6ZvIpwBpF-mOECcGEdTWuVAg=/e.glbimg.com/og/ed/f/original/2019/07/18/maria_goeppert-mayer_portrait.jpg"
+  },
+  {
+    "i": 22,
+    "Nome": "Tatiana Guida",
+    "Emojis": "💃🏻",
+    "Área em que trabalha": "Procurement",
+    "Descrição": "Ela é uma pessoa responsável e comprometida, tanto no trabalho quanto em casa. Gosta de manter o equilíbrio entre as suas atividades, sem absorver o stress do dia a dia. Tem um espírito jovial, adora animais, boa comida e um bom vinho. Ama crianças e a maternidade faz parte da minha essência, já que sou mãe de três.",
+    "O hobbies dela são...": "Churrasco com a sua familia.",
+    "Foto": "https://tibbyappstorage.blob.core.windows.net/diadamulher/WhatsApp Image 2025-02-28 at 10.49.21 - Tatiana Guida de Camargo.jpeg"
+  },
+  {
+    "i": 23,
+    "Nome": "Emmy Noether",
+    "Emojis": "📐 ⚛️ 📚 ",
+    "Área em que trabalha": "Matemática",
+    "Descrição": "Foi uma matemática alemã, conhecida pelas suas contribuições de fundamental importância aos campos de física teórica e álgebra abstrata. Ela revolucionou as teorias sobre anéis, corpos e álgebra. Em física, o teorema de Noether explica a conexão fundamental entre a simetria na física e as leis de conservação.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://opinion-images.wsj.net/im-80191927/?width=1280&size=1.77777778"
+  },
+  {
+    "i": 24,
+    "Nome": "Nettie Stevens",
+    "Emojis": "🧬🔬",
+    "Área em que trabalha": "Ciências Biológicas",
+    "Descrição": "Foi uma bióloga e geneticista norte-americana. A ela atribui-se a descoberta dos cromossomos sexuais. O par de cromossomos que ela estudou ficariam conhecidos como X para o feminino e Y para o masculino.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Nettie_Stevens2.jpg/210px-Nettie_Stevens2.jpg"
+  },
+  {
+    "i": 25,
+    "Nome": "Analu Souza",
+    "Emojis": "🤩🤘✨✈️",
+    "Área em que trabalha": "Design",
+    "Descrição": "Content Designer da TELUS Digital. É formada em jornalismo, mas descobriu no Design uma forma de impactar positivamente mais pessoas por meio da comunicação. Veio de Curitiba para São Paulo há mais de 8 anos. Mora com o Cássio, seu marido, e seu cachorro Feijão! ",
+    "O hobbies dela são...": "",
+    "Foto": "https://tibbyappstorage.blob.core.windows.net/diadamulher/Profile - Ana Luiza Souza.jpg"
+  },
+  {
+    "i": 26,
+    "Nome": "Lillian Gilbreth",
+    "Emojis": "👷🏻‍♀️🧠",
+    "Área em que trabalha": "Psicologia e Engenheira Industrial",
+    "Descrição": "Foi uma psicóloga e engenheira industrial estadunidense. Foi uma das primeiras engenheiras no país a ter um doutorado em psicologia, sendo a primeira a trabalhar com psicologia industrial e organizacional. Lillian e seu marido eram especialistas em eficiência, tendo dado contribuições significativas para a engenharia industrial, com melhoras na ergonomia e design de equipamentos. Foi pioneira em estudos de tempo e movimento.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lillian_Moller_Gilbreth.jpg/800px-Lillian_Moller_Gilbreth.jpg"
+  },
+  {
+    "i": 27,
+    "Nome": "Maria",
+    "Emojis": "🤾🏼‍♀️🎉🦝🦎🤡💁🏼‍♀️",
+    "Área em que trabalha": "Product Delivery",
+    "Descrição": "Cresceu em Caxias do Sul, se mudou para Porto Alegre para estudar Engenharia Física na UFRGS. Gosta de sempre se manter ocupada, tanto que quando era criança apareceu em uma materia do jornal da cidade como a criança com mais atividades exracurriculares da cidade. Adora viajar, mas como tem a incrível habilidade de se machucar, tem muitas histórias de tombos em viagens (viajar com ela é muita risada garantida!). É fissurada por enigmas, jogos de lógica e sudoku. Apesar de ser considerada geração Z, seu videogame era um Atari e ela já usou disquete, telefone de disco, VHS, fita cassete, mp3...",
+    "O hobbies dela são...": "Jogar handball quadra e areia, sudoku, estudar sobre investimentos, finanças e cripto.",
+    "Foto": "https://tibbyappstorage.blob.core.windows.net/diadamulher/IMG_9351 - Maria Tergolina.jpg"
+  },
+  {
+    "i": 28,
+    "Nome": "Vivi",
+    "Emojis": ":party_blob: ",
+    "Área em que trabalha": "AI & Data",
+    "Descrição": "Na infância, era apaixonada por Castelo Rá-Tim-Bum. A-do-ra-va a bruxa Morgana e a gralha dela, a Adelaide. Sempre foi muito encantada por esse universo místico e fantástico de contação de estórias, de fábulas e mitos. \n\nEla entrou na Universidade em Letras, mas amava Física e acabou migrando para o Curso de Ciências Moleculares. Deu aulas por muitos anos (de reforço escolar de diversas matérias, de programação e de inglês). Uma das suas brincadeiras favoritas da infância era \"escolinha\". Depois que ganhou um kit de lousa e gizes da sua mãe, ouvia de todo mundo que seria professora. E, por um certo tempo, assim foi!  >.<\n",
+    "O hobbies dela são...": "ler, ir ao cinema, jogar badminton, passear por SP, encontrar seus amigos, nadar",
+    "Foto": "https://tibbyappstorage.blob.core.windows.net/diadamulher/profile_pic - Viviane Santos.jpg"
+  },
+  {
+    "i": 29,
+    "Nome": "Marie Curie",
+    "Emojis": "⚛️ ☢️ 🧪",
+    "Área em que trabalha": "Física e Química",
+    "Descrição": "Foi uma física e química polonesa que conduziu pesquisas pioneiras sobre radioatividade. Ela foi a primeira mulher a ganhar o Prêmio Nobel, sendo também a primeira pessoa e a única mulher a ganhá-lo duas vezes, além de ser a única pessoa a ser premiada em dois campos científicos diferentes. Ela também foi a primeira mulher a se tornar professora na Universidade de Paris e, em 1995, se tornou a primeira mulher a ser sepultada por seus próprios méritos no Panteão de Paris.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Marie_Curie_c1920.jpg/640px-Marie_Curie_c1920.jpg"
+  },
+  {
+    "i": 30,
+    "Nome": "Lise Meitner",
+    "Emojis": "⚛️ 🔬 ☢️",
+    "Área em que trabalha": "Física",
+    "Descrição": "Lise Meitner foi uma física austríaca que estudou radioatividade e física nuclear, tendo sido a descobridora da fissão nuclear.",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Lise_Meitner_NatGeo.jpg"
+  },
+  {
+    "i": 31,
+    "Nome": "Stéfani",
+    "Emojis": "🥱 ",
+    "Área em que trabalha": "AI & Data",
+    "Descrição": "Nasci em Passo Fundo, e vim pra Porto Alegre em 2016 pra fazer faculdade. Fiz um ano de Física Licenciatura e troquei para Astrofísica depois, onde me formei. Em 2022, comecei a trabalhar na Poatek.",
+    "O hobbies dela são...": "Gosta de jogar no computador (jogos de campanha, nao competitivos), lê quando acorda enquanto toma café e quando vai dormir, faz pilates e joga volei de vez em quando.",
+    "Foto": "https://tibbyappstorage.blob.core.windows.net/diadamulher/Captura de tela 2025-03-06 132348 - Stefani De Almeida Villa.png"
+  },
+  {
+    "i": 32,
+    "Nome": "Maria da Penha",
+    "Emojis": "⚖️",
+    "Área em que trabalha": "Farmácia",
+    "Descrição": "Maria da Penha Maia Fernandes é uma biofarmacêutica brasileira e defensora dos direitos humanos que transformou sua tragédia pessoal em uma batalha histórica contra a violência doméstica no Brasil. Nascida em 1945 em Fortaleza, Ceará, ela sobreviveu a duas tentativas de assassinato por seu então marido em 1983, que a deixaram paraplégica. Sua luta por justiça durou quase 20 anos, período durante o qual ela se tornou uma incansável ativista pelos direitos das mulheres. Seu caso ganhou reconhecimento internacional quando foi levado à Comissão Interamericana de Direitos Humanos, resultando em uma condenação histórica do Brasil por negligência em casos de violência doméstica. Como consequência, em 2006, foi promulgada a Lei 11.340, conhecida como \"Lei Maria da Penha\", um marco na proteção legal das mulheres brasileiras contra a violência doméstica e familiar.",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Maria_da_Penha_em_novembro_de_2018_%28cropped_2%29.jpg/800px-Maria_da_Penha_em_novembro_de_2018_%28cropped_2%29.jpg"
+  },
+  {
+    "i": 33,
+    "Nome": "Edith Clarke",
+    "Emojis": "⚡️",
+    "Área em que trabalha": "Engenharia Elétrica",
+    "Descrição": "Edith Clarke foi a primeira engenheira eletricista e primeira professora de engenharia eléctrica da Universidade do Texas. Ela se especializou em análise de sistemas de energia eléctrica e escreveu a Análise de Circuito de Sistemas de Potência AC.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuqwDoya4TeOnJwyoVK8-xVKie9l_kb7xGxw&s"
+  },
+  {
+    "i": 34,
+    "Nome": "Mariana",
+    "Emojis": "🤩",
+    "Área em que trabalha": "Product Delivery",
+    "Descrição": "É bacharela em física, gosta muito de resolver problemas de machine learning e discutir problemas atuais da área. ",
+    "O hobbies dela são...": "Ler, assistir filmes/ séries e conhecer lugares novos. ",
+    "Foto": "https://tibbyappstorage.blob.core.windows.net/diadamulher/IMG-20241001-WA0030 - Mariana Rocha Mercucci.jpg"
+  },
+  {
+    "i": 35,
+    "Nome": "Gerty Cori",
+    "Emojis": "👩‍🔬",
+    "Área em que trabalha": "Bioquímica",
+    "Descrição": "Gerty Theresa Radnitz Cori foi uma bioquímica estadunidense, nascida na República Tcheca Foi agraciada com o Nobel de Fisiologia ou Medicina de 1947, por melhorar a compreensão da diabetes.",
+    "O hobbies dela são...": "",
+    "Foto": "https://beckerexhibits.wustl.edu/legacy-exhibits/women/images/CoriG_with_pipette.jpg"
+  },
+  {
+    "i": 36,
+    "Nome": "Grace Hopper",
+    "Emojis": "💻 👩‍💻 🔢",
+    "Área em que trabalha": "Ciência da Computação\n",
+    "Descrição": "Foi uma pioneira da computação e almirante da Marinha dos Estados Unidos. Conhecida como \"a avó do COBOL\", ela foi uma das primeiras programadoras do mundo, contribuindo significativamente para o desenvolvimento do primeiro compilador, uma ferramenta fundamental para a programação de computadores. Hopper também foi uma líder visionária na promoção da educação em ciência da computação e na popularização do uso de linguagens de programação.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/640px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg"
+  },
+  {
+    "i": 37,
+    "Nome": "Rachel Carson",
+    "Emojis": "🌊 🌿 📚",
+    "Área em que trabalha": "Ciências Biológicas",
+    "Descrição": "Foi uma renomada bióloga marinha e escritora americana, conhecida por seu livro \"Primavera Silenciosa\", que alertou sobre os perigos dos pesticidas, especialmente o DDT, para o meio ambiente e a vida selvagem. Sua obra desencadeou um movimento ambiental global e levou à proibição do DDT nos Estados Unidos e a mudanças significativas na política ambiental.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rachel-Carson.jpg/640px-Rachel-Carson.jpg"
+  },
+  {
+    "i": 38,
+    "Nome": "Rita Levi-Montalcini",
+    "Emojis": "🧠 🔬 🧪",
+    "Área em que trabalha": "Neurociência",
+    "Descrição": "Foi uma neurocientista italiana conhecida por suas descobertas fundamentais sobre o desenvolvimento dos neurônios e fatores de crescimento. Ela identificou o fator de crescimento nervoso (NGF), um marco na neuroCiências Biológicas, pelo qual recebeu o Prêmio Nobel de Fisiologia ou Medicina em 1986. Levi-Montalcini enfrentou adversidades durante a Segunda Guerra Mundial, continuando a pesquisa clandestinamente, e se tornou uma defensora dos direitos das mulheres na ciência.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCp3tUA5--3zhVB0rFyypRQsgyqs4lvVq_yw&s"
+  },
+  {
+    "i": 39,
+    "Nome": "Chien-Shiung Wu",
+    "Emojis": "⚛️ 🔬 📐",
+    "Área em que trabalha": "Física",
+    "Descrição": "Foi uma física experimental sino-americana cujo trabalho notável no campo da física nuclear foi fundamental para avanços significativos, incluindo a separação do urânio-235 durante o Projeto Manhattan. Ela também é famosa pelo Experimento de Wu, que refutou a conservação da paridade na interação fraca, uma descoberta que mudou a compreensão fundamental das forças fundamentais da natureza.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-515185238-copy.jpg"
+  },
+  {
+    "i": 40,
+    "Nome": "Gertrude Elion",
+    "Emojis": "💊",
+    "Área em que trabalha": "Bioquímica e Farmácia",
+    "Descrição": "Foi uma farmacologista e bioquímica americana, reconhecida por suas contribuições revolucionárias para a descoberta de novos medicamentos. Ela desenvolveu drogas inovadoras para tratar uma variedade de condições médicas, incluindo leucemia, gota e herpes. Por seu trabalho, Elion recebeu o Prêmio Nobel de Fisiologia ou Medicina em 1988, sendo uma das poucas mulheres a receber esse prêmio.",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Gertrude_Elion.jpg"
+  },
+  {
+    "i": 41,
+    "Nome": "Katherine Johnson",
+    "Emojis": "🚀 📐 💫",
+    "Área em que trabalha": "Matemática",
+    "Descrição": " Foi uma matemática afro-americana que desempenhou um papel crucial na NASA durante a corrida espacial. Suas habilidades matemáticas excepcionais foram fundamentais para calcular trajetórias de voo precisas para missões espaciais tripuladas, incluindo o voo da Apollo 11 à Lua. Johnson quebrou barreiras raciais e de gênero em uma época de segregação, tornando-se uma figura emblemática da contribuição das mulheres negras para a exploração espacial e para a ciência como um todo. \n",
+    "O hobbies dela são...": "",
+    "Foto": "https://www.nasa.gov/wp-content/uploads/2016/11/26646856911_ca242812ee_o_1.jpg"
+  },
+  {
+    "i": 42,
+    "Nome": "Jane Cooke Wright",
+    "Emojis": "🏥",
+    "Área em que trabalha": "Medicina",
+    "Descrição": "Foi uma renomada oncologista americana, pioneira no desenvolvimento da quimioterapia contra o câncer. Ela foi uma das primeiras médicas a investigar e utilizar agentes quimioterápicos para tratar o câncer, adaptando tratamentos para as necessidades individuais de cada paciente. Seu trabalho inovador contribuiu significativamente para o avanço do tratamento do câncer e abriu caminho para abordagens mais eficazes e personalizadas na oncologia. Wright também foi uma defensora da igualdade racial na medicina, desafiando as barreiras da discriminação racial em sua carreira.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://cdn.cancerhistoryproject.com/media/2021/02/19145704/story-4-Jane-Wright-4x3-2.jpg"
+  },
+  {
+    "i": 43,
+    "Nome": "Rosalind Franklin",
+    "Emojis": "🧬",
+    "Área em que trabalha": "Biofísica",
+    "Descrição": "Foi uma biofísica britânica cujo trabalho fundamental com raios X ajudou a elucidar a estrutura do DNA. Suas imagens de difração de raios X foram essenciais para a descoberta da estrutura de dupla hélice do DNA, mas sua contribuição foi muitas vezes subestimada. Sua pesquisa estabeleceu as bases para a compreensão da genética molecular e teve um impacto duradouro no avanço da Ciências Biológicas e da medicina.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://www.bspp.org.uk/wp-content/uploads/2020/07/rosalind-franklin-down-a-microscope-scaled.jpg"
+  },
+  {
+    "i": 44,
+    "Nome": "Luiza Allgayer",
+    "Emojis": "🤪🥹🫶👀🙆‍♀️🤸🏻‍♀️",
+    "Área em que trabalha": "Design",
+    "Descrição": "Formada em Design Visual na UFRGS, atua como Design Director na Poatek e durante as horas vagas é metida a artista. Se considera uma criadora de nóias o tempo todo e é mãe de pet, a Ice Berg Augayer, que vem pro office mais que ela!",
+    "O hobbies dela são...": "",
+    "Foto": "https://tibbyappstorage.blob.core.windows.net/diadamulher/image 11 - Luiza Allgayer.png"
+  },
+  {
+    "i": 45,
+    "Nome": "Esther Lederberg",
+    "Emojis": "🦠",
+    "Área em que trabalha": "Ciências Biológicas",
+    "Descrição": "Foi uma microbiologista americana que desempenhou um papel fundamental no desenvolvimento da genética bacteriana. Ela trabalhou ao lado de seu marido, contribuindo significativamente para a descoberta da transferência de genes entre bactérias, um processo crucial na pesquisa genética.",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/1/15/Esther_Lab.jpg"
+  },
+  {
+    "i": 46,
+    "Nome": "Vera Rubin",
+    "Emojis": "✨🔭",
+    "Área em que trabalha": "Astronomia",
+    "Descrição": "Foi uma astrônoma americana cujo trabalho pioneiro em astronomia observacional revolucionou nossa compreensão da estrutura e evolução do universo. Ela foi uma das primeiras cientistas a investigar a rotação das galáxias e descobriu evidências cruciais da existência de matéria escura.",
+    "O hobbies dela são...": "",
+    "Foto": "https://www.ufmg.br/espacodoconhecimento/wp-content/uploads/2020/04/verarubin-800x502.png"
+  },
+  {
+    "i": 47,
+    "Nome": "Annie Easley",
+    "Emojis": "🚀💻",
+    "Área em que trabalha": "Computação e Matemática",
+    "Descrição": "Foi uma matemática e cientista computacional afro-americana, reconhecida por suas contribuições pioneiras na NASA. Ela trabalhou em projetos cruciais, incluindo a análise de propulsão para foguetes e a criação de software para sistemas de energia alternativa. Easley superou barreiras raciais e de gênero em uma época de segregação e se tornou um modelo de inspiração para mulheres e minorias em ciência e tecnologia. ",
+    "O hobbies dela são...": "",
+    "Foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzkN8eRI3p97-Reo5Ts44ZP1BOM5P4-tst5A&s"
+  },
+  {
+    "i": 48,
+    "Nome": "Jane Goodall",
+    "Emojis": "🦍 🌿 🔬",
+    "Área em que trabalha": "Ciências Biológicas",
+    "Descrição": "É uma renomada primatóloga britânica, conhecida por suas extensas pesquisas sobre chimpanzés na Tanzânia. Sua abordagem inovadora na observação e documentação do comportamento desses primatas transformou nossa compreensão sobre eles e redefiniu o conceito de humanidade. Goodall também é uma ativista ambiental e defensora dos direitos dos animais, dedicada à preservação da vida selvagem e à promoção da conscientização sobre questões de conservação.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://cdn.britannica.com/27/163227-050-753FE634/Jane-Goodall-chimpanzee-Congo-Tchimpounga-Chimpanzee-Rehabilitation.jpg"
+  },
+  {
+    "i": 49,
+    "Nome": "Sylvia Earle",
+    "Emojis": "🌊 🐠 🔬",
+    "Área em que trabalha": "Oceanografia",
+    "Descrição": "É uma renomada oceanógrafa e exploradora americana, conhecida como \"Her Deepness\" por sua dedicação à pesquisa e conservação dos oceanos. Ela foi a primeira mulher a liderar a Administração Nacional Oceânica e Atmosférica dos Estados Unidos. Ao longo de sua carreira, realizou inúmeras expedições submarinas e é uma defensora incansável da proteção dos ecossistemas marinhos.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/sylvia%20earle.jpg?w=1900&h=2369"
+  },
+  {
+    "i": 50,
+    "Nome": "Valentina Tereshkova",
+    "Emojis": "🚀 👩‍🚀 💫",
+    "Área em que trabalha": "Astronauta",
+    "Descrição": "É uma ex-astronauta soviética e a primeira mulher a viajar para o espaço. Em 1963, ela realizou a missão Vostok 6, tornando-se um ícone da exploração espacial e um símbolo do avanço das mulheres na ciência e na tecnologia.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://m.media-amazon.com/images/M/MV5BOTVjNWVmY2UtZWM2NC00Mzg2LWI0YmEtMDljNDI2MGM4Njc4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "i": 51,
+    "Nome": "Patricia Bath",
+    "Emojis": "🚀 👩‍🚀 💫",
+    "Área em que trabalha": "Medicina",
+    "Descrição": "Foi uma oftalmologista e inventora norte-americana, reconhecida por suas contribuições para a oftalmologia e pela invenção do dispositivo de cirurgia ocular a laser, conhecido como \"Laserphaco\". Ela foi a primeira mulher negra a completar uma residência em oftalmologia nos Estados Unidos e a primeira mulher a liderar um departamento de oftalmologia em uma faculdade de medicina dos EUA.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://hips.hearstapps.com/hmg-prod/images/dr-patricia-bath-of-laserphaco-attends-the-tribeca-news-photo-1707333493.jpg?crop=0.747xw:0.498xh;0.115xw,0.0813xh&resize=1200:*"
+  },
+  {
+    "i": 52,
+    "Nome": "Christiane Nüsslein-Volhard",
+    "Emojis": "🧬",
+    "Área em que trabalha": "Ciências Biológicas",
+    "Descrição": "Christiane Nüsslein-Volhard é uma bióloga do desenvolvimento alemã reconhecida por suas descobertas no campo da genética embrionária. Ela foi premiada com o Prêmio Nobel de Fisiologia ou Medicina em 1995 por sua pesquisa sobre o desenvolvimento embrionário de Drosophila melanogaster, uma mosca da fruta. ",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Christiane_N%C3%BCsslein-Volhard_mg_4372.jpg/1200px-Christiane_N%C3%BCsslein-Volhard_mg_4372.jpg"
+  },
+  {
+    "i": 53,
+    "Nome": "Jocelyn Bell Burnell",
+    "Emojis": "🌌🔭",
+    "Área em que trabalha": "Astrofísica",
+    "Descrição": "É uma astrofísica britânica reconhecida por sua descoberta histórica dos pulsares. Enquanto ainda era estudante de pós-graduação, ela detectou os sinais pulsantes regulares de estrelas de nêutrons em 1967, uma descoberta que revolucionou nossa compreensão do cosmos. Apesar de sua contribuição fundamental, Bell Burnell enfrentou desafios de reconhecimento, mas emergiu como uma figura inspiradora para mulheres na ciência. Ela continua a advogar pela igualdade de gênero e pela promoção da ciência.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://media.newyorker.com/photos/5a3c46999f909f74db2ecee0/1:1/w_2728,h_2728,c_limit/Holloway-Jocelyn-Bell-Burnell.jpg"
+  },
+  {
+    "i": 54,
+    "Nome": "Isinha",
+    "Emojis": "✨ 😂 ✈️",
+    "Área em que trabalha": "Design",
+    "Descrição": "Estagiária de Design, formada em Produção Multimídia e cursando Design de Produto. Já trabalhou com marketing por 1 ano, foi estagiária de design em outros lugares, participou do programa Apple Developer Academy e está na Poatek/WillowTree/Telus há 1 ano e 2 meses. Antes de fazer faculdade fez técnico em Biotecnologia e fez iniciação científica por 1 ano, pesquisando sobre genética.",
+    "O hobbies dela são...": "Começou a correr há 5 meses e sua meta é correr a meia maratona até 2026. Gosta muito de conversar sobre viagens. Já foi sozinha pra Lisboa, Porto, Londres, Nova York, Milão e Florianópolis. Ama café e adora conhecer sobre os métodos diferentes de fazê-lo. Não é considerada cinéfila, mas adora comentar o que achou dos filmes que vê! ",
+    "Foto": "https://tibbyappstorage.blob.core.windows.net/diadamulher/00120434-F6D8-4C97-B1BA-6EE02FCBC3BE - Isadora da Rosa Gambetta.jpg"
+  },
+  {
+    "i": 55,
+    "Nome": "Elizabeth Blackburn",
+    "Emojis": "🔬",
+    "Área em que trabalha": "Ciências Biológicas",
+    "Descrição": "É uma renomada bióloga molecular, reconhecida por sua pesquisa pioneira sobre telômeros e telomerase. Seu trabalho revolucionou nossa compreensão do envelhecimento celular e das doenças relacionadas, incluindo o câncer. Por suas contribuições significativas, Blackburn recebeu o Prêmio Nobel de Fisiologia ou Medicina em 2009, tornando-se a primeira mulher australiana a receber esse prêmio.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/2/24/Elizabeth_Blackburn_CHF_Heritage_Day_2012_Rush_001.JPG"
+  },
+  {
+    "i": 56,
+    "Nome": "Katia Krafft",
+    "Emojis": "🌋",
+    "Área em que trabalha": "Vulcanologia",
+    "Descrição": "Foi uma renomada vulcanóloga francesa, reconhecida por suas contribuições significativas para o estudo e a documentação de vulcões ao redor do mundo. ",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/0/05/KatiaMauriceKrafft.jpg"
+  },
+  {
+    "i": 57,
+    "Nome": "Mae Jemison",
+    "Emojis": "🚀 👩‍⚕️ 👩‍🚀",
+    "Área em que trabalha": "Medicina e Ciências Espaciais",
+    "Descrição": "É uma médica, cientista e ex-astronauta norte-americana. Em 1992, tornou-se a primeira mulher afro-americana a viajar para o espaço. Além de sua conquista espacial, Jemison é conhecida por seu trabalho em medicina, engenharia e educação, promovendo a diversidade e a inclusão nas ciências. ",
+    "O hobbies dela são...": "",
+    "Foto": "https://s2.glbimg.com/RYpd_eYm5m3Hq6ZRCt1VZlH5kIg=/512x320/smart/e.glbimg.com/og/ed/f/original/2018/03/08/dr._mae_c._jemison_first_african-american_woman_in_space_-_gpn-2004-00020.jpg"
+  },
+  {
+    "i": 58,
+    "Nome": "May-Britt Moser",
+    "Emojis": "🧠",
+    "Área em que trabalha": "Neurociência",
+    "Descrição": "É uma neurocientista norueguesa conhecida por suas pesquisas sobre o sistema de posicionamento espacial do cérebro. Recebeu o Prêmio Nobel de Fisiologia ou Medicina em 2014. Sua pesquisa tem amplas implicações na compreensão de como o cérebro cria nosso sentido de orientação no mundo.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://www.nobelprize.org/images/may-britt-moser-15191-portrait-medium.jpg"
+  },
+  {
+    "i": 59,
+    "Nome": "Maryam Mirzakhani",
+    "Emojis": "📐",
+    "Área em que trabalha": "Matemática",
+    "Descrição": "Foi uma renomada matemática iraniana. Ela se destacou por suas contribuições em áreas como a geometria dos espaços de Riemann e a dinâmica de operadores em superfícies de Riemann. Maryam foi a primeira mulher a receber a Medalha Fields, considerada o mais alto reconhecimento no campo da matemática.",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/654d56ac6e_109485_maryam-mirzakhani-stanford-university-02.jpg/1200px-654d56ac6e_109485_maryam-mirzakhani-stanford-university-02.jpg"
+  },
+  {
+    "i": 60,
+    "Nome": "Izabel Maior",
+    "Emojis": "♿️",
+    "Área em que trabalha": "Medicina",
+    "Descrição": "É professora de medicina na UFRJ, foi a primeira pessoa com deficiência a comandar a Secretaria Nacional de Promoção dos Direitos da Pessoa com Deficiência e é liderança há mais de trinta anos do Movimento das Pessoas com Deficiência.",
+    "O hobbies dela são...": "",
+    "Foto": "https://conexao.ufrj.br/wp-content/uploads/2020/09/Izabel-Maior-2017-close-1200x1169.jpg"
+  },
+  {
+    "i": 61,
+    "Nome": "Helen Keller",
+    "Emojis": "📚 ✍️ 🗣️",
+    "Área em que trabalha": "Educação ",
+    "Descrição": "Foi uma notável escritora, ativista política e palestrante americana. Ela ficou cega e surda na infância devido a uma doença. Superando esses obstáculos, Keller aprendeu a se comunicar através da linguagem de sinais e se tornou a primeira pessoa surdocega a se formar no ensino superior. Ela dedicou sua vida à defesa dos direitos das pessoas com deficiência e inspirou milhões ao redor do mundo com sua determinação e superação.",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Helen_Keller_circa_1920_-_restored.jpg/640px-Helen_Keller_circa_1920_-_restored.jpg"
+  },
+  {
+    "i": 62,
+    "Nome": "Soraia Raupp Musse",
+    "Emojis": "👩🏻‍🏫💻",
+    "Área em que trabalha": "Ciência da Computação\n",
+    "Descrição": "Soraia Raupp Musse é uma pesquisadora brasileira de destaque na área de Ciência da Computação. Professora titular da Escola de Tecnologia da PUCRS, ela construiu uma carreira notável em simulação virtual e computação gráfica.\n\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://www.pucrs.br/mulheresnaciencia/wp-content/uploads/sites/298/2022/06/thumb_Soraia_Musse.jpg"
+  },
+  {
+    "i": 63,
+    "Nome": "Ruth Bader Ginsburg",
+    "Emojis": "👩🏻‍⚖️",
+    "Área em que trabalha": "Direito",
+    "Descrição": "Ruth Bader Ginsburg foi uma das figuras mais influentes na história jurídica americana. Como advogada, professora e Juíza da Suprema Corte, ela dedicou sua vida à luta pela igualdade de gênero e direitos civis.\n\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ruth_Bader_Ginsburg%2C_official_SCOTUS_portrait%2C_crop.jpg/1200px-Ruth_Bader_Ginsburg%2C_official_SCOTUS_portrait%2C_crop.jpg"
+  },
+  {
+    "i": 64,
+    "Nome": "Aline Cristiane Pan",
+    "Emojis": "☀️",
+    "Área em que trabalha": "Engenharia de Energia",
+    "Descrição": "Aline Cristiane Pan é uma renomada especialista em energia solar fotovoltaica, com doutorado pela Universidade Politécnica de Madri e 20 anos de experiência no campo. Atualmente, atua como Coordenadora do Mestrado Nacional Profissional em Ensino de Física e Professora de Engenharia de Gestão de Energia na UFRGS.Em sua trajetória acadêmica, contribuiu significativamente para o avanço da energia solar no Brasil.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://www.pucrs.br/mulheresnaciencia/wp-content/uploads/sites/298/2022/06/thumb_Aline_Pan.jpg"
+  },
+  {
+    "i": 65,
+    "Nome": "Andrea Streit",
+    "Emojis": "🧬🔬👩🏼‍🔬",
+    "Área em que trabalha": "Ciências Biológicas",
+    "Descrição": "Neurobióloga do desenvolvimento, especializada em desenvolvimento de órgãos sensoriais (olho, ouvido, nariz). Lidera pesquisas sobre órgãos sensoriais vertebrados. Advoga e promove o equilíbrio de gênero e inclusão em áreas STEM, particularmente em posições de liderança na Ciências Biológicas.",
+    "O hobbies dela são...": "",
+    "Foto": "https://www.pucrs.br/mulheresnaciencia/wp-content/uploads/sites/298/2022/06/thumb_Andrea_Streit.jpg"
+  },
+  {
+    "i": 66,
+    "Nome": "Sandra Einloft",
+    "Emojis": "🌱🧪",
+    "Área em que trabalha": "Engenharia de Materiais",
+    "Descrição": "Sandra Einloft é uma pesquisadora brasileira especializada em engenharia de materiais e química ambiental. Pesquisa sistemas catalíticos para transformação de CO2. É a primeira mulher a ser nomeada Decana da Escola Politécnica PUCRS.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://www.pucrs.br/mulheresnaciencia/wp-content/uploads/sites/298/2022/06/thumb_Sandra_Einloft.jpg"
+  },
+  {
+    "i": 67,
+    "Nome": "Ruth Morgan",
+    "Emojis": "🔍",
+    "Área em que trabalha": "Ciências Forense ",
+    "Descrição": "Ccientista forense e líder acadêmica de renome internacional.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://www.pucrs.br/mulheresnaciencia/wp-content/uploads/sites/298/2023/05/06-Ruth-Morgan.png"
+  },
+  {
+    "i": 68,
+    "Nome": "Tuleen Boutaleb",
+    "Emojis": "📡",
+    "Área em que trabalha": "Engenharia Eletrônica",
+    "Descrição": "Engenheira e pesquisadora especializada em telecomunicações e redes sem fio. É líder em iniciativas de inclusão em STEM, especialmente focando na promoção de engenharia para jovens, especialmente meninas e pessoas negras.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://www.pucrs.br/mulheresnaciencia/wp-content/uploads/sites/298/2023/05/10-Tuleen-Boutaleb_1.png"
+  },
+  {
+    "i": 69,
+    "Nome": " Vanusca Dalosto Jahno",
+    "Emojis": "♻️",
+    "Área em que trabalha": "Química",
+    "Descrição": "Vanusca combina pesquisa em sustentabilidade com forte atuação acadêmica e advocacy para mulheres na ciência.\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://www.pucrs.br/mulheresnaciencia/wp-content/uploads/sites/298/2023/05/14-Vanusca-dalosto-jahno_1.png"
+  },
+  {
+    "i": 70,
+    "Nome": "Carla Maria Dal Sasso Freitas",
+    "Emojis": "👩🏻‍🏫💻",
+    "Área em que trabalha": "Ciência da Computação\n",
+    "Descrição": "Pesquisadora e educadora brasileira de destaque na área de Ciência da Computação. Foi a primeira diretora do Instituto de Informática da UFRGS.",
+    "O hobbies dela são...": "",
+    "Foto": "https://www.pucrs.br/mulheresnaciencia/wp-content/uploads/sites/298/2022/06/thumb_Carla_Freitas.jpg"
+  },
+  {
+    "i": 71,
+    "Nome": "Azam Nekahi",
+    "Emojis": "⚡️",
+    "Área em que trabalha": "Engenharia Elétrica",
+    "Descrição": "Dr. Azam Nekahi é uma renomada engenheira e pesquisadora na área de engenharia elétrica. ",
+    "O hobbies dela são...": "",
+    "Foto": "https://www.pucrs.br/womeninscience/wp-content/uploads/sites/299/2023/05/11-Azam-Nekahi_1.png"
+  },
+  {
+    "i": 72,
+    "Nome": "Abigail Tucker",
+    "Emojis": "🔬",
+    "Área em que trabalha": "Ciências Biológicas",
+    "Descrição": "Abigail Tucker é uma cientista renomada no campo da biologia do desenvolvimento, com foco especial no desenvolvimento craniofacial. ",
+    "O hobbies dela são...": "",
+    "Foto": "https://www.pucrs.br/mulheresnaciencia/wp-content/uploads/sites/298/2022/06/thumb_Abigail_Tucker.jpg"
+  },
+  {
+    "i": 73,
+    "Nome": "Salma D. Mohamed",
+    "Emojis": "👷⚡️",
+    "Área em que trabalha": "Engenharia Eletrônica",
+    "Descrição": "Dra. Salma D. Mohamed é uma pesquisadora e educadora especializada em engenharia de comunicações e segurança cibernética. Sua pesquisa abrange áreas cruciais da tecnologia moderna, incluindo sistemas de comunicação ópticos e sem fio, redes ópticas, armazenamento de energia óptica sem fio e sistemas de comunicação RF. Suas contribuições acadêmicas são evidenciadas por diversas publicações em periódicos e conferências renomados.\n\n",
+    "O hobbies dela são...": "",
+    "Foto": "https://www.pucrs.br/mulheresnaciencia/wp-content/uploads/sites/298/2023/05/12-Salma-Mohamed_1.png"
+  },
+  {
+    "i": 74,
+    "Nome": "Anna L. Cox",
+    "Emojis": "🧠",
+    "Área em que trabalha": "Ciências Cognitivas",
+    "Descrição": "Anna Cox é uma pesquisadora pioneira em Interação Humano-Computador (HCI), com doutorado em Ciência Cognitiva e HCI pela Universidade de Hertfordshire. Sua trajetória acadêmica tem sido marcada por contribuições significativas para o entendimento da relação entre humanos e tecnologia digital, especialmente no contexto do trabalho moderno.",
+    "O hobbies dela são...": "",
+    "Foto": "https://www.pucrs.br/mulheresnaciencia/wp-content/uploads/sites/298/2023/05/03-anna-l-cox-1.png"
+  },
+  {
+    "i": 75,
+    "Nome": "Maribel Fernández",
+    "Emojis": "💻",
+    "Área em que trabalha": "Ciência da Computação",
+    "Descrição": "Maribel Fernández é uma cientista da computação de destaque internacional. Seu reconhecimento como ACM Distinguished Scientist e sua liderança em importantes organizações europeias de ciência da computação, incluindo a presidência da European Association for Computer Science Logic, refletem sua influência significativa no campo. ",
+    "O hobbies dela são...": "",
+    "Foto": "https://www.pucrs.br/mulheresnaciencia/wp-content/uploads/sites/298/2022/06/thumb_Maribel_Fernandes.jpg"
+  }
+ ]
